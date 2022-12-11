@@ -1,6 +1,7 @@
 <!-- @format -->
 
 # CLI-app
-
-<a href='https://monosnap.com/file/PQl74fiWI9ksF0JkoRoJL4Nld9RY8v'></a>
-<a href='https://monosnap.com/file/fFxlq6CuQbDGi6qZr6gvYzzlWaTxSy'></a>
+- Contact list https://monosnap.com/file/CRlBAi9KBMm0NcNmNn2rKwYnSscK1y
+- Check ID contact list https://monosnap.com/file/mpS6YdevcgNAruLfzDuGnxJi2mqUB3
+- Add to contact list https://monosnap.com/file/R2QMZYUqJSCZX3r22lhtKIEPPoI5h6
+- Remove from contact list https://monosnap.com/file/2Ht844YllAzcMvtVZVyStRsB4qUUnZ
